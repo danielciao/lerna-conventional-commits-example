@@ -1,6 +1,6 @@
 {
   "name": "@danielc/beta",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Daniel C. <email@test.com>",
   "publishConfig": {
     "registry": "http://localhost:4873"
