@@ -1,1 +1,3 @@
-module.exports = 'beta 444';
+const sillyname = require('sillyname');
+
+module.exports = `beta ${sillyname()}`;

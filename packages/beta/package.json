@@ -6,5 +6,8 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "sillyname": "0.0.3"
+  }
 }

@@ -3,7 +3,8 @@
   "version": "1.0.2",
   "dependencies": {
     "@danielc/alpha": "^1.1.0",
-    "@danielc/beta": "^1.0.1"
+    "@danielc/beta": "^1.0.1",
+    "sillyname": "0.1.0"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

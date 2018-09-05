@@ -1,1 +1,3 @@
-module.exports = 'alpa 222';
+const sillyname = require('sillyname');
+
+module.exports = `alpa ${sillyname()}`;
