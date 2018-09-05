@@ -4,5 +4,8 @@
   "dependencies": {
     "@danielc/alpha": "^1.0.0",
     "@danielc/beta": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:6006"
   }
 }
