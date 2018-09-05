@@ -1,9 +1,9 @@
 {
   "name": "@danielc/usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@danielc/alpha": "^1.0.0",
-    "@danielc/beta": "^1.0.0"
+    "@danielc/alpha": "^1.0.1",
+    "@danielc/beta": "^1.0.1"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
