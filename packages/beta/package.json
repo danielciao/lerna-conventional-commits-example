@@ -1,10 +1,14 @@
 {
   "name": "@danielc/beta",
-  "version": "1.0.1",
+  "version": "1.2.1",
+  "author": "Daniel C. <email@test.com>",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "sillyname": "0.0.3"
+  }
 }
