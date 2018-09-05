@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/danielciao/lerna-conventional-commits-example/compare/@danielc/usage@1.1.0...@danielc/usage@1.2.0) (2018-09-05)
+
+
+### Features
+
+* **project:** new text ([f3f33b1](https://github.com/danielciao/lerna-conventional-commits-example/commit/f3f33b1))
+
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/danielciao/lerna-conventional-commits-example/compare/@danielc/usage@1.0.2...@danielc/usage@1.1.0) (2018-09-05)
 
