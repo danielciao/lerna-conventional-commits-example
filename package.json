@@ -29,12 +29,14 @@
     }
   },
   "changelog": {
+    "repo": "danielciao/lerna-conventional-commits-example",
     "labels": {
       "feat": "🚀 New Feature",
       "fix": ":bug: Bug Fix",
       "docs": ":memo: Documentation",
       "chore": ":house: Chore",
       "refactor": ":boom: Refactor"
-    }
+    },
+    "cacheDir": ".changelog"
   }
 }
