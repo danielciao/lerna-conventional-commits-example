@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "publishConfig": {
     "registry": "http://localhost:4873"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
