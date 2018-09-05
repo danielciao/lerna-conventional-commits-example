@@ -2,7 +2,7 @@
   "name": "@danielc/usage",
   "version": "1.0.0",
   "dependencies": {
-    "@my-scope/alpha": "^1.0.0",
-    "@my-scope/beta": "^1.0.0"
+    "@danielc/alpha": "^1.0.0",
+    "@danielc/beta": "^1.0.0"
   }
 }

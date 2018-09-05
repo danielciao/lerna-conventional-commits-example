@@ -1,3 +1,4 @@
-const alpha = require('@my-scope/alpha');
-const beta = require('@my-scope/beta');
-console.log(alpha + " " + beta);
+const alpha = require('@danielc/alpha');
+const beta = require('@danielc/beta');
+
+console.log(alpha + ' ' + beta);

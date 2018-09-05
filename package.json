@@ -2,12 +2,18 @@
   "name": "lerna-conventional-commits-example",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
+    "commit": "git-cz",
     "commitmsg": "commitlint -e $GIT_PARAMS"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",
+    "commitizen": "^2.10.1",
+    "cz-conventional-changelog": "^2.1.0",
     "husky": "^0.14.3",
     "lerna": "^2.11.0"
   },
@@ -15,5 +21,10 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
