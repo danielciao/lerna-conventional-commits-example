@@ -38,5 +38,8 @@
       "refactor": ":boom: Refactor"
     },
     "cacheDir": ".changelog"
+  },
+  "dependencies": {
+    "cli-highlight": "^2.0.0"
   }
 }
