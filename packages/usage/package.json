@@ -1,8 +1,8 @@
 {
   "name": "@danielc/usage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
-    "@danielc/alpha": "^1.0.1",
+    "@danielc/alpha": "^1.1.0",
     "@danielc/beta": "^1.0.1"
   },
   "publishConfig": {
